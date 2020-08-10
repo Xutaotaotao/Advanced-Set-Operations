@@ -1,6 +1,6 @@
 # JavaScript 集合操作基础练习高级进阶
 
-与https://github.com/Xutaotaotao/JavaScript-set-operation中练习相似，安装相应的依赖，进行相应的编码，完成相应的单元测试。
+与<a>https://github.com/Xutaotaotao/JavaScript-set-operation</a>中练习相似，安装相应的依赖，进行相应的编码，完成相应的单元测试。
 
 尽量使用数组中一些巧妙的API来完成这些题目。
 
