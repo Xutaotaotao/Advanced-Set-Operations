@@ -13,6 +13,7 @@
 首先初次下载完需要安装依赖：
 
 npm install
+
 运行所有测试：
 
 npm test
